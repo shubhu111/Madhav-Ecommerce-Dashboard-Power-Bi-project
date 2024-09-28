@@ -1,5 +1,10 @@
 # Madhav-Ecommerce-Dashboard-Power-Bi-project
 # Overview
+- Created interactive dashboard to track and analyze online sales data
+- Used complex parameters to drill down in worksheet and customization using filters and slicers
+- Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+- Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+
 The Madhav Ecommerce Dashboard is an interactive Power BI dashboard designed to analyze and visualize key business performance metrics for an ecommerce platform. By integrating two datasets`—Orders` and `Details—`the dashboard provides a comprehensive view of sales, profitability, customer behavior, and product performance.
 
 This project showcases how business intelligence tools like Power BI can be used to derive actionable insights that help stakeholders make data-driven decisions to improve business performance.
