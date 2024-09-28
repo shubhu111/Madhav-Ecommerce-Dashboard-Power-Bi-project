@@ -4,18 +4,18 @@ The Madhav Ecommerce Dashboard is an interactive Power BI dashboard designed to 
 
 This project showcases how business intelligence tools like Power BI can be used to derive actionable insights that help stakeholders make data-driven decisions to improve business performance.
 ## Datasets
-Orders.csv: Contains order metadata including:
-Order ID
-Order Date
-Customer Name
-State and City
-Details.csv: Provides detailed transactional data such as:
-Order ID
-Amount
-Profit
-Quantity
-Category and Sub-Category
-Payment Mode (e.g., COD, EMI, Credit Card)
+# Orders.csv: Contains order metadata including:
+- Order ID
+- Order Date
+- Customer Name
+- State and City
+# Details.csv: Provides detailed transactional data such as:
+- Order ID
+- Amount
+- Profit
+- Quantity
+- Category and Sub-Category
+- Payment Mode (e.g., COD, EMI, Credit Card)
 ## Key Features
 # Revenue & Sales Growth Analysis:
 Tracks sales performance over time, identifying growth trends in high-value categories like Electronics and Furniture.
